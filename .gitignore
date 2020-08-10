@@ -1,3 +1,4 @@
 /package/pkg
 /package/src
 /package/dida
+*.pkg.tar.xz
